@@ -22,27 +22,18 @@
 
 ## 📸 界面预览
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="./images/home_preview.png" alt="主页预览" width="100%"/>
-      <br><b>🍃 唯美全景树</b>
-    </td>
-    <td align="center" width="50%">
-      <img src="./images/home_preview_02.png" alt="主页预览" width="100%"/>
-      <br><b>🍃 唯美全景树道具展开效果</b>
-    </td>
-    <td align="center" width="50%">
-      <img src="./images/wish_items.png" alt="道具预览" width="100%"/>
-      <br><b>🔮 动态许愿道具</b>
-    </td>
-     <td align="center" width="50%">
-      <img src="./images/wish_items_02.png" alt="道具预览" width="100%"/>
-      <br><b>🔮 动态许愿道具02</b>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+ <img src="./images/home_preview.png" alt="主页预览" width="100%"/>
+</p>
+<p align="center">
+ <img src="./images/home_preview_02.png" alt="主页预览" width="100%"/>
+</p>
+<p align="center">
+<img src="./images/wish_items.png" alt="道具预览" width="100%"/>
+</p>
+<p align="center">
+<img src="./images/wish_items_02.png" alt="道具预览" width="100%"/>
+</p>
 ---
 
 ## ✨ 核心亮点
